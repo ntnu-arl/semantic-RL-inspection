@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: semantic-RL-inspection
+Version: 1.0.0
+Summary: Semantic RL Inspection with Isaac Gym environments for Aerial Robots
+Author: Grzegorz Malczyk
+Author-email: grzegorz.malczyk@ntnu.no
+License: BSD-3-Clause
+License-File: LICENSE
+Requires-Dist: isaacgym
+Requires-Dist: aerial_gym
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: pytorch3d
+Requires-Dist: warp-lang==1.0.0b5
+Requires-Dist: trimesh
+Requires-Dist: urdfpy
+Requires-Dist: numpy==1.23
+Requires-Dist: gymnasium
+Requires-Dist: rl-games
+Requires-Dist: sample-factory
+Requires-Dist: shimmy==0.2.1

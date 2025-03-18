@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<robot name="bipyramid">
+  <link name="semantic_link">
+    <inertial>
+      <origin xyz="0.0 0.0 0.0" rpy="0.0 -0.0 0.0"/>
+      <mass value="0.001"/>
+      <inertia ixx="0.001" ixy="0.0" ixz="0.0" iyy="0.001" iyz="0.0" izz="0.001"/>
+    </inertial>
+    <visual name="semantic_base_link_visual">
+      <geometry>
+        <mesh filename="bipyramid_60.stl"/>
+      </geometry>
+    </visual>
+    <collision name="semantic_base_link_collision">
+      <geometry>
+        <mesh filename="bipyramid_60.stl"/>
+      </geometry>
+    </collision>
+  </link>
+</robot>

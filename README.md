@@ -129,8 +129,15 @@ To load a trained checkpoint and perform only inference (no training), follow th
 ## Citing
 If you reference our work in your research, please cite the following paper:
 
+G. Malczyk, M. Kulkarni and K. Alexis, "Semantically-driven Deep Reinforcement Learning for Inspection Path Planning," Submitted to IEEE Robotics and Automation Letters, 2025
+
 ```bibtex
-TODO
+@INPROCEEDINGS{malczyk2025semantically,
+  author={Malczyk, Grzegorz and Kulknari, Mihir and Alexis, Kostas},
+  booktitle={Submitted to IEEE Robotics and Automation Letters 2025},
+  title={Semantically-driven Deep Reinforcement Learning for Inspection Path Planning},
+  year={2025},
+}
 ```
 ## Contact
 For inquiries, feel free to reach out to the authors:

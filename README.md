@@ -134,7 +134,7 @@ G. Malczyk, M. Kulkarni and K. Alexis, "Semantically-driven Deep Reinforcement L
 ```bibtex
 @INPROCEEDINGS{malczyk2025semantically,
   author={Malczyk, Grzegorz and Kulknari, Mihir and Alexis, Kostas},
-  booktitle={Submitted to IEEE Robotics and Automation Letters 2025},
+  booktitle={Accepted in IEEE Robotics and Automation Letters 2025},
   title={Semantically-driven Deep Reinforcement Learning for Inspection Path Planning},
   year={2025},
 }

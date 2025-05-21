@@ -1,5 +1,5 @@
 # semantic-RL-inspection
-This repository contains the source code for the paper _Semantically-driven Deep Reinforcement Learning for Inspection Path Planning_. The accompanying video is available at the following link: [TODO: Add YouTube link].
+This repository contains the source code for the paper [_Semantically-driven Deep Reinforcement Learning for Inspection Path Planning_](https://arxiv.org/abs/2505.14443). The accompanying video is available at the following [link](https://youtu.be/vAXLmalLo80?feature=shared).
 
 
 ## Installation
@@ -44,7 +44,7 @@ This repository contains the source code for the paper _Semantically-driven Deep
    ```
    
 ## Running the Examples 
-The standalone examples, along with a pre-trained RL policy, can be found in the `examples` directory. The ready-to-use policy used in the work detailed in [TODO: Add Paper Reference] is available under `examples/pre-trained_network`. To evaluate the performance of this policy, follow the steps below.
+The standalone examples, along with a pre-trained RL policy, can be found in the `examples` directory. The ready-to-use policy used in the work detailed in [Semantically-driven Deep Reinforcement Learning for Inspection Path Planning](https://arxiv.org/abs/2505.14443) is available under `examples/pre-trained_network`. To evaluate the performance of this policy, follow the steps below.
 
 ### Single Semantic Example
 
@@ -83,7 +83,7 @@ https://github.com/user-attachments/assets/d29e4260-489d-4266-bfca-b7a48c96a0f2
 
 ## RL Training 
 ### Running Training
-To train your first semantic-aware inspection policy, use the following command, which initiates the training with the settings introduced in [TODO: add Paper Reference]:
+To train your first semantic-aware inspection policy, use the following command, which initiates the training with the settings introduced in [Semantically-driven Deep Reinforcement Learning for Inspection Path Planning](https://arxiv.org/abs/2505.14443):
 ```bash
 conda activate aerialgym
 cd ~/workspaces/

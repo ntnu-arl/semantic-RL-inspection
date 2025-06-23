@@ -132,16 +132,13 @@ If you reference our work in your research, please cite the following paper:
 G. Malczyk, M. Kulkarni and K. Alexis, "Semantically-driven Deep Reinforcement Learning for Inspection Path Planning," Accepted for publication in IEEE Robotics and Automation Letters, 2025
 
 ```bibtex
-@ARTICLE{malczyk2025semantically,
+@article{malczyk2025semantically,
+  title={Semantically-Driven Deep Reinforcement Learning for Inspection Path Planning},
   author={Malczyk, Grzegorz and Kulkarni, Mihir and Alexis, Kostas},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={Semantically-Driven Deep Reinforcement Learning for Inspection Path Planning}, 
+  journal={IEEE Robotics and Automation Letters},
   year={2025},
-  volume={},
-  number={},
-  pages={1-8},
-  keywords={Robots;Semantics;Inspection;Robot sensing systems;Three-dimensional displays;Planning;Navigation;Collision avoidance;Vectors;History;Aerial Systems: Perception and Autonomy;Aerial Systems: Applications;Reinforcement Learning},
-  doi={10.1109/LRA.2025.3575331}}
+  publisher={IEEE}
+}
 ```
 ## Contact
 For inquiries, feel free to reach out to the authors:

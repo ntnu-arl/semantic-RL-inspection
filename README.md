@@ -1,8 +1,8 @@
 # semantic-RL-inspection
 This repository contains the source code for the paper [_Semantically-driven Deep Reinforcement Learning for Inspection Path Planning_](https://ieeexplore.ieee.org/abstract/document/11018373). The accompanying video is available at the following [link](https://youtu.be/vAXLmalLo80?feature=shared).
 
-[![vAXLmalLo80-HD](https://github.com/user-attachments/assets/e9cf4d03-6696-4c26-8173-c814aa44685f)
-](https://youtu.be/vAXLmalLo80?feature=shared "Semantically-driven Deep Reinforcement Learning for Inspection Path Planning")
+
+[![1754819741372](https://github.com/user-attachments/assets/5988796f-017d-40a2-94db-a5b6e4224c0b)](https://youtu.be/vAXLmalLo80?feature=shared "Semantically-driven Deep Reinforcement Learning for Inspection Path Planning")
 
 ## Installation
 1. Install Isaac Gym and Aerial Gym Simulator
